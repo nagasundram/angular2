@@ -1,0 +1,15 @@
+{
+  "name": "angular2",
+  "version": "0.0.0",
+  "authors": [
+    "Nagasundaram I <nagasundram@gmail.com>"
+  ],
+  "description": "Angular2 learning",
+  "keywords": [
+    "Angular2"
+  ],
+  "dependencies": {
+    "traceur-runtime": "~0.0.92",
+    "system.js": "~0.19.5"
+  }
+}
